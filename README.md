@@ -15,7 +15,7 @@ Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas també
 
 ### Exemplo de Utilização da Ferramenta
 
-![Script](input/imagem1.png)
+![Script](input/imagem1.png.jpeg)
 
 ![Resultado](output/imagem2.png.jfif)
 
